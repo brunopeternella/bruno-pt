@@ -6,7 +6,7 @@
 
 ![alt text][logoC#] ![alt text][logo.NET] ![alt text][logoJava]
 
-[![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunopeternella/ "Dá uma olhadinha =)")
+[![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunopeternella/ "Dá uma olhadinha 😄")
 
 [logoC#]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "Minha queridinha 🥰"
 [logo.NET]: https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
