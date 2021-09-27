@@ -1,7 +1,7 @@
 ### Eai, eu sou o Bruno!  😄👋
 
 - 🔭 Projeto: CRUD com ASP.NET MVC
-- 🌱 Aprendendo: C#, ASP.NET e Java
+- 📚 Aprendendo: C#, ASP.NET e Java
 - ⚡ Fun fact: Já fui Top 1 Corki do Brasil... rsrs
 
 [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunopeternella/)
