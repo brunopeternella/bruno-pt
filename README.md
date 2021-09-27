@@ -1,4 +1,4 @@
-### Eai, eu sou o Bruno! 😃👋
+### Eai, eu sou o Bruno! 😄👋
 
 - 🔭 Projeto: CRUD com ASP.NET MVC
 - 📚 Aprendendo: C#, ASP.NET e Java
