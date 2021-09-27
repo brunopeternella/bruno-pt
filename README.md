@@ -3,7 +3,7 @@
 - 🔭 Projeto: CRUD com ASP.NET MVC
 - 🌱 Aprendendo: C#, ASP.NET e Java
 - ⚡ Fun fact: Já fui Top 1 Corki do Brasil... rsrs
-- Linkedin 
+- [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunopeternella/) 
 - ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn") [Meu LinkedIn](https://www.linkedin.com/in/brunopeternella/ "Dê uma olhadinha =)")
 <!--
 **bruno-pt/bruno-pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
