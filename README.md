@@ -1,9 +1,9 @@
 ### Eai, eu sou o Bruno! 😄👋
 
-- 💪 **Trabalhando atualmente**: *Testes Automatizados E2E de APIs com Cypress
-- 🔭 **Projeto de estudo**: *CRUD com .NET MVC
-- 📚 **Foco de aprendizado**: *C#, .NET, JS
-- ⚡ **Fun fact**: *Já fui Top 1 Corki do Brasil... rsrs
+- 💪 **Trabalhando atualmente**: *Testes Automatizados E2E de APIs com Cypress*
+- 🔭 **Projeto de estudo**: *CRUD com .NET MVC*
+- 📚 **Foco de aprendizado**: *C#, .NET, JS*
+- ⚡ **Fun fact**: *Já fui Top 1 Corki do Brasil... rsrs*
 
 ![alt text][logoC#]  ![alt text][logo.NET]  ![alt text][logoJavaScript]  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cypress.png?raw=true" width="27">
 
