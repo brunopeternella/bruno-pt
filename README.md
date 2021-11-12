@@ -1,10 +1,11 @@
 ### Eai, eu sou o Bruno! 😄👋
 
-- 🔭 Projeto: CRUD com ASP.NET MVC
-- 📚 Aprendendo: C#, ASP.NET e Java
+- 💪 Trabalhando atualmente: Testes Automatizados E2E de APIs com Cypress
+- 🔭 Projeto de estudo: CRUD com .NET MVC
+- 📚 Foco de aprendizado: C#, .NET, JS
 - ⚡ Fun fact: Já fui Top 1 Corki do Brasil... rsrs
 
-![alt text][logoC#] ![alt text][logo.NET] ![alt text][logoJava] <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cypress.png?raw=true" width="34">
+![alt text][logoC#]  ![alt text][logo.NET]  ![alt text][logoJava]  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cypress.png?raw=true" width="31">
 
 [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunopeternella/ "Dá uma olhadinha 😄")
 
