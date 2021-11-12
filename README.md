@@ -4,7 +4,7 @@
 - 📚 Aprendendo: C#, ASP.NET e Java
 - ⚡ Fun fact: Já fui Top 1 Corki do Brasil... rsrs
 
-![alt text][logoC#] ![alt text][logo.NET] ![alt text][logoJava] <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cypress.png?raw=true" width="48">
+![alt text][logoC#] ![alt text][logo.NET] ![alt text][logoJava] <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cypress.png?raw=true" width="34">
 
 [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunopeternella/ "Dá uma olhadinha 😄")
 
