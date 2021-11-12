@@ -11,6 +11,7 @@
 [logoC#]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "Minha queridinha 🥰"
 [logo.NET]: https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white "Aprendendo... 😨"
 [logoJava]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Eu até gosto de vc... 😂"
+[![Cypress](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cypress.png?raw=true)](https://www.cypress.io/)
 
 <!--
 **bruno-pt/bruno-pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
