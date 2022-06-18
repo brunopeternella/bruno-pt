@@ -6,10 +6,6 @@
 
 ###
 
-<h5 align="center">🔭 I’m currently working on WhatsApp API using Venom-Bot Repo 🔭<br><br>🌱 I’m currently learning API with .NET 5 and Node.js 🌱</h5>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/brunopeternella/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -18,6 +14,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
+###
+
+<h5 align="center">🔭 I’m currently working on WhatsApp API using Venom-Bot Repo 🔭<br><br>🌱 I’m currently learning API with .NET 5 and Node.js 🌱</h5>
 
 ###
 
