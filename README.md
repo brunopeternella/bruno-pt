@@ -36,9 +36,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo"  />
 </div>
-
-###
-
-<img href="https://raw.githubusercontent.com/bruno-pt/bruno-pt/blob/output/snake.svg" alt="Snake animation" />
-
-###
