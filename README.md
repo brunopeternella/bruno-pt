@@ -17,7 +17,7 @@
 
 ###
 
-<h5 align="center">🔭 I’m currently working on WhatsApp API using Venom-Bot Repo 🔭<br><br>🌱 I’m currently learning API with .NET 5 and Node.js 🌱</h5>
+<h5 align="center">🔭 I currently work with Angular and APIs in .NET and Node.js 🔭<br>
 
 ###
 
