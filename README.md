@@ -17,8 +17,6 @@
 
 ###
 
-<h5 align="center">🔭 I currently work with Angular and APIs in .NET and Node.js 🔭<br>
-
 ###
 
 <div align="center">
