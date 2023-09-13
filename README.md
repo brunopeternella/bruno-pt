@@ -2,8 +2,6 @@
 
 ###
 
-<h3 align="center">a restless backend developer</h3>
-
 ###
 
 <div align="center">
